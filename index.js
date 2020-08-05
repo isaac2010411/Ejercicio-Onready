@@ -92,6 +92,9 @@ class OnReady {
 
 
 new OnReady(autos).theMostCarSpensive()
+console.log('=======================')
 new OnReady(autos).theMostCarsCheap()
-new OnReady(autos).findByCharacter('Y') 
+console.log('=======================')
+new OnReady(autos).findByCharacter('Y')
+console.log('=======================') 
 new OnReady(autos).orderDecs()
